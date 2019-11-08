@@ -3,17 +3,17 @@
 library(twitteR)
 
 # Log in as 'swbrewer'
-api_key <- "c2eiHpCAjrTQ0jX8AasPfzUoG"
-api_secret <- "RqMjyMMTg84ktM1JLlz14TUhbPMsb49tv3l8UWxDzgovTol6BH"
-access_token <- "15043068-tzRAOCaQQrgz0gfZeOFbANDGJ0dG0EknHftXKlUvA"
-access_token_secret <- "y43mE6qZOd6DUa7jetlXreWbevCcUS4OEwzCEbe1VI95D"
+api_key <- #paste your api key
+api_secret <- #paste your api secret 
+access_token <- #paste your token
+access_token_secret <- #paste your token secret 
 setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
 
 # Log in as 'onontsatsal'
-api_key <- "Pmwl82hdUUOfK172AvwgpZ2N2"
-api_secret <- "8uCSE3VoTcCosolUy8H3NsAdYHDiC9nnA9loP8Lc1e2cajEwK0"
-access_token <- "54819349-6lNvSjHMW04zWjtuIX4dzj80jsN3Wemht1kJ020Pb"
-access_token_secret <- "KHSCTAlPecENbNsDMHLgliuC2KSrbdHRydtw4JqaXTOVx"
+api_key <- #paste your api key  
+api_secret <- #paste your api secret  
+access_token <- #paste your token 
+access_token_secret <- #paste your token secret
 setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
 
 userName <- 'swbrewer'
